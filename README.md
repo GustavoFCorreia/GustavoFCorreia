@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="linkedin.com/in/gustavofercorr/">
+  <a href="https://www.linkedin.com/in/gustavofercorr/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoFCorreia&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFCorreia&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
